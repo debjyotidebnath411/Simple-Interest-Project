@@ -1,14 +1,14 @@
 # Simple Interest Project
 
-A tiny shell script to compute simple interest.
+A simple shell script to compute **Simple Interest**.
 
 ## Formula
-Simple interest = (P × R × T) / 100  
-- **P**: Principal  
-- **R**: Annual interest rate in percent  
-- **T**: Time in years
+Simple Interest = (P × R × T) / 100  
+- **P** = Principal (amount)  
+- **R** = Annual interest rate (percent)  
+- **T** = Time (in years)
 
-## Usage
+## Example
 ```bash
 ./simple-interest.sh 1000 5 2
 # Simple Interest: 100.00
